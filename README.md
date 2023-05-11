@@ -33,7 +33,7 @@ Busy with computer Dev and Eng
 ![](https://github-profile-trophy.vercel.app/?username=veereswarg&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=veereswarg&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=veereswarg&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/veereswarg) 
